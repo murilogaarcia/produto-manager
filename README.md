@@ -43,14 +43,6 @@ Relatórios: Gerar relatórios de estoque, vendas ou movimentações.
 Interface Responsiva: Melhorar o design para dispositivos móveis e diferentes tamanhos de tela.
 Validações Avançadas: Implementar validações mais robustas para entrada de dados.
 Integração Backend: Desenvolver uma API para gerenciar os dados de forma segura e escalável.
-Capturas de tela
-Tela principal do Produto Manager
-Interface principal para gerenciamento de produtos.
-
-Formulário de cadastro
-Formulário para adicionar ou editar produtos.
-
-(Obs.: Substitua os links acima por imagens reais do projeto, se desejar.)
 
 Contribuições
 Contribuições são muito bem-vindas! Para contribuir:
